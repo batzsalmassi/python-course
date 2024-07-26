@@ -1,0 +1,7 @@
+Here is a sample CODEOWNERS file for you:
+
+```
+# CODEOWNERS file for the python-course repository
+
+# Assign ownership of all files to batzsalmassi
+*       @batzsalmassi
