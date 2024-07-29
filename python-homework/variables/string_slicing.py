@@ -15,8 +15,8 @@ print(len(string))
 sentence = input("Enter a sentence: ")
 words = sentence.split()
 print(words)
-for i in range(1, len(words), 2):
-    print(words[i][::-1])
+#for i in range(1, len(words), 2):
+print(words[1][::-1])
 
 ##### ------- Second Way ------- #####
 words = input("Enter a sentence: ").split()
